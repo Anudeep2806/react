@@ -1,0 +1,32 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is a react application by anudeep.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anudeep2806/react.git"
+  },
+  "keywords": [],
+  "author": "anudeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anudeep2806/react/issues"
+  },
+  "homepage": "https://github.com/Anudeep2806/react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "file:",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ]
+}
